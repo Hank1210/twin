@@ -1,0 +1,22 @@
+{
+  "full_name": "Frank Euler",
+  "name": "Frank",
+  "current_role": "Self employed Marketing consultant",
+  "location": "Germany",
+  "email": "frank@euler.eu",
+  "linkedin": "www.linkedin.com/in/eulerfra",
+  "specialties": [
+    "Strategic digital business leader with extensive experience driving revenue growth, operational efficiency, and digital transformation across multinational tech, financial, and consumer sectors. Expertise includes marketing innovation, AI-driven automation, and scaling online platforms. Proven leadership of cross functional teams (up to 24 FTEs) and successful track record of delivering double-digit growth in complex, international environments.",
+    "Leadership & Growth: Executive Stakeholder Management | Strategic & Operational Business Development | P&L and Budget Management",
+    "Marketing & Digital Innovation: Cross-Channel Marketing (Online/Offline) | Brand & PR Management | CRM & Customer Service",
+    "Technology & Transformation: Digital Process Automation (AI, Python, SQL, n8n) | Program Management & International Rollouts"
+  ],
+  "years_experience": 30,
+  "education": [
+    {
+      "degree": "Master of International Management",
+      "institution": "Thunderbird School of Global Management",
+      "year": "1998"
+    }
+  ]
+}
