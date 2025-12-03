@@ -21,7 +21,7 @@ resource "aws_iam_openid_connect_provider" "github" {
   # This thumbprint is from GitHub's documentation
   # Verify current value at: https://github.blog/changelog/2023-06-27-github-actions-update-on-oidc-integration-with-aws/
   thumbprint_list = [
-    "1b511abead59c6ce207077c0bf0e0043b1382612"
+    "6938fd4d98bab03faadb97b34396831e3780aea1"
   ]
 }
 
